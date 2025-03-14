@@ -1,0 +1,80 @@
+[
+    {
+        "pergunta": "Qual a capital de Portugal?",
+        "respostas": ["Porto", "Faro", "Lisboa", "Braga"],
+        "correcta": 3,
+        "dificuldade": 1
+    },
+    {
+        "pergunta": "Quem realizou o filme Star Wars: A New Hope?",
+        "respostas": ["Quentin Tarantino", "David Lynch", "Steven Spielberg", "George Lucas"],
+        "correcta": 4,
+        "dificuldade": 5
+    },
+    {
+        "pergunta": "Qual o maior país do mundo?",
+        "respostas": ["Rússia", "Brasil", "Estados Unidos da América", "China"],
+        "correcta": 1,
+        "dificuldade": 6
+    },
+    {
+        "pergunta": "Qual é o elemento químico representado pelo símbolo O?",
+        "respostas": ["Ouro", "Oxigênio", "Osso", "Ozônio"],
+        "correcta": 2,
+        "dificuldade": 6
+    },
+    {
+        "pergunta": "Quem pintou a obra 'Mona Lisa'?",
+        "respostas": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "correcta": 2,
+        "dificuldade": 7
+    },
+    {
+        "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+        "respostas": ["Terra", "Júpiter", "Marte", "Saturno"],
+        "correcta": 3,
+        "dificuldade": 1
+    },
+    {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "respostas": ["Miguel de Cervantes", "William Shakespeare", "Fernando Pessoa", "Jorge Luis Borges"],
+        "correcta": 1,
+        "dificuldade": 2
+    },
+    {
+        "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+        "respostas": ["1789", "1815", "1642", "1905"],
+        "correcta": 1,
+        "dificuldade": 3
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "correcta": 4,
+        "dificuldade": 2
+    },
+    {
+        "pergunta": "Qual é a unidade básica da vida?",
+        "respostas": ["Átomo", "Molécula", "Célula", "Organelo"],
+        "correcta": 3,
+        "dificuldade": 4
+    },
+    {
+        "pergunta": "Quem é conhecido como o 'Pai da Computação'?",
+        "respostas": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "John von Neumann"],
+        "correcta": 2,
+        "dificuldade": 2
+    },
+    {
+        "pergunta": "Quantos continentes existem no mundo?",
+        "respostas": ["6", "7", "8", "5"],
+        "correcta": 2,
+        "dificuldade": 4
+    },
+    {
+        "pergunta": "Qual país é famoso pela Torre Eiffel?",
+        "respostas": ["Itália", "Espanha", "França", "Alemanha"],
+        "correcta": 3,
+        "dificuldade": 1
+    }    
+]

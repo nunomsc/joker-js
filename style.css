@@ -1,0 +1,54 @@
+body {
+    margin: 0; /* Remove espaçamentos padrão */
+    height: 100vh; /* Garante que cubra 100% da altura da tela */
+    background: linear-gradient(to bottom, #064c87, #1765a3);
+    background-repeat: no-repeat; /* Evita repetição */
+    background-size: cover; /* Garante que o gradiente preencha a tela */
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  button.btn {
+    position: relative;
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    font-size: 16px; /* Tamanho do texto */
+    color: #fff; /* Cor do texto */
+    background-color: #064c87; /* Fundo do botão */
+    border: none; /* Remove bordas padrão */
+    border-top: 3px solid #96723c; /* Borda no topo */
+    border-bottom: 3px solid #96723c; /* Borda na parte inferior */
+    border-radius: 25px; /* Cria o efeito de arco nas bordas superior e inferior */
+  }
+  
+  button.btn:hover {
+    background-color: #96723c; /* Adiciona um efeito hover */
+  }
+  
+  .navbar, #premio div {
+    margin: 0; /* Remove espaçamentos padrão */
+    border-bottom: 3px solid #e2d36c;
+    background: linear-gradient(to right, #96723c, #e2d36c);
+    background-repeat: no-repeat; /* Evita repetição */
+    background-size: cover; /* Garante que o gradiente preencha a tela */    
+  }
+
+  #pergunta, #resultado {
+    color: #e2d36c
+  }
+
+  #premio, #jokerContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.joker, #premio div {
+  background: #064c87;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  border-bottom: 3px solid #e2d36c;
+  border-top: 3px solid #e2d36c;
+}
